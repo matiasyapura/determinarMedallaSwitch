@@ -1,0 +1,2 @@
+# determinarMedallaSwitch
+Created with CodeSandbox
